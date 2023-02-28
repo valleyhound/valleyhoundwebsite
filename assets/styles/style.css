@@ -10,7 +10,7 @@
 }
 html{
     overflow-y: scroll; /* Show scrollbars */
-    overflow-x: auto;
+    overflow-x: hidden;
 }
 
 html, body { 
@@ -63,7 +63,7 @@ img{
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 420px;
+  width: 40%;
   background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
   text-align: center;
@@ -71,9 +71,9 @@ img{
   padding: 5px 0;
   position: absolute;
   z-index: 1;
-  top: 80%;
+  top: 5%;
   left: 50%;
-  margin-left: -210px;
+  margin-left: -47.8%;
 }
 
 .tooltip:hover .tooltiptext {
