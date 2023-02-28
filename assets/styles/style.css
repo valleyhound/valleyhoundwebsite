@@ -9,7 +9,7 @@
     to {transform: scale(1.0, 1.0);}
 }
 html{
-    overflow-y: scroll; /* Show scrollbars */
+    overflow-y: auto; /* Show scrollbars */
     overflow-x: hidden;
 }
 
