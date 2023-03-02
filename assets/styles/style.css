@@ -1,19 +1,23 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap');*/
-/*@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');*/
-@keyframes bodyAnimation{
+@keyframes bodyAnimation
+{
     from {opacity: 0.0; transform: translate(0%, 5%);}
     to {opacity: 1.0; transform: translate(0%, 0%);}
 }
-@keyframes image{
+
+@keyframes image
+{
     from{transform: scale(0.1, 0.1);}
     to {transform: scale(1.0, 1.0);}
 }
-html{
-    overflow-y: auto; /* Show scrollbars */
+
+html
+{
+    overflow-y: auto;
     overflow-x: hidden;
 }
 
-html, body { 
+html, body
+{ 
     height : 95%;
     max-width: 1000px;
     margin:auto;
@@ -21,27 +25,38 @@ html, body {
     animation-name: bodyAnimation;
     animation-duration: 2s;
 }
-h1, h2, h3, p {
+
+h1, h2, h3, p 
+{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(25, 25, 25);
 }
-b {
+
+b 
+{
     color: rgb(0, 0, 0);
 }
-.center {
+
+.center
+{
     margin: auto;
     width: 80%;
     padding: 1%;
 }
-a {
+
+a
+{
     color: rgb(25, 25, 25);
     text-decoration: none;
 }
-a:hover {
+
+a:hover 
+{
     text-decoration: underline;
 }
 
-img{
+img
+{
     max-width: 100%;
     width : auto;
     height: auto;
@@ -51,17 +66,15 @@ img{
     transition: transform 0.1s ease-in;
 }
 
-/*.img_clicked {
-    transform: scale(1.25, 1.25);
-}*/
-
-.tooltip {
+.tooltip
+{
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted rgba(0, 0, 0, 0.5);
 }
 
-.tooltip .tooltiptext {
+.tooltip .tooltiptext
+{
   visibility: hidden;
   width: 40%;
   background-color: rgba(0, 0, 0, 0.5);
@@ -76,6 +89,7 @@ img{
   margin-left: -47.8%;
 }
 
-.tooltip:hover .tooltiptext {
+.tooltip:hover .tooltiptext
+{
   visibility: visible;
 }
