@@ -62,7 +62,7 @@ img
 {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.5);
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.9);
 }
 
 .tooltip .tooltiptext
