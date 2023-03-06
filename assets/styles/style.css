@@ -27,6 +27,15 @@ h1, h2, h3, p
     transition: transform 1s ease-in;
 }
 
+p, h2, h3, h1 {
+    font-family: 'Arial', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+
 b 
 {
     color: rgb(0, 0, 0);
@@ -73,17 +82,18 @@ img
   width: 40%;
   background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
-  text-align: center;
+  text-align:center;
   border-radius: 6px;
   padding: 5px 0;
   position: absolute;
   z-index: 1;
   top: 5%;
+  bottom: 5%;
   left: 50%;
   margin-left: -47.8%;
 }
 
 .tooltip:hover .tooltiptext
 {
-  visibility: visible;
+  /*visibility: visible;*/
 }
