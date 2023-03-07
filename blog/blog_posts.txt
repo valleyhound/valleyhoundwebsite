@@ -1,7 +1,9 @@
-[newblog(07/03/2023,01:01,The Start of ValleyHound's Blog!)]
-This is the start of ValleyHound blogging!
-[/newblog]
+[newblog(07/03/2023,02:04,The Start of ValleyHound's Blog!)]
+We've created this nifty little Javascript based blogging tool that simply reads from a blog posts text file and using some custom markup splits it into seperate blog posts and their meta data.
 
-[newblog(07/03/2023,01:02,Another Blog!)]
-This is another new blog!
+Its quite nice to use and very simple, which is usually the best option as they say.
+Anyway, this blog will contain updates on what we are doing with our time, what we are working on and how its coming along, plus general news with the website and our work. I hope this will become a useful tool to see into our workflow!
+
+Cheers,
+ValleyHound
 [/newblog]
