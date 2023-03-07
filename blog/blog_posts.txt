@@ -1,4 +1,4 @@
-[newblog(07/03/2023,02:04,The Start of ValleyHound's Blog!)]
+[newblog(07/03/2023,02:04 GMT,The Start of ValleyHound's Blog!)]
 We've created this nifty little Javascript based blogging tool that simply reads from a blog posts text file and using some custom markup splits it into seperate blog posts and their meta data.
 
 Its quite nice to use and very simple, which is usually the best option as they say.
