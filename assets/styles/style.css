@@ -80,6 +80,7 @@ img
     outline-color: black;
     outline-width: 1px;
     outline-style: solid;
+    padding: 1%;
 }
 
 .prevent_select {
