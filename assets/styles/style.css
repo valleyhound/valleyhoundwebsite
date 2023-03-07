@@ -16,15 +16,16 @@ html, body
     max-width: 1000px;
     margin:auto;
     padding: 1%;
+    
+    animation-name: faded;
+    animation-duration: 1s;
+    transition: transform 1s ease-in;
 }
 
 h1, h2, h3, p 
 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(25, 25, 25);
-    animation-name: faded;
-    animation-duration: 1s;
-    transition: transform 1s ease-in;
 }
 
 p, h2, h3, h1 {
@@ -64,36 +65,8 @@ img
     max-width: 100%;
     width : auto;
     height: auto;
+    animation-delay: -1s;
     animation-name: faded;
     animation-duration: 1s;
     transition: transform 1s ease-in;
-}
-
-.tooltip
-{
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.9);
-}
-
-.tooltip .tooltiptext
-{
-  visibility: hidden;
-  width: 40%;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: #fff;
-  text-align:center;
-  border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-  top: 5%;
-  bottom: 5%;
-  left: 50%;
-  margin-left: -47.8%;
-}
-
-.tooltip:hover .tooltiptext
-{
-  /*visibility: visible;*/
 }

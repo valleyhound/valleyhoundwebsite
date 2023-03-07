@@ -34,9 +34,8 @@
             <h2>Our In-House Games</h2>
             <hr>
 
-            <div class="tooltip">
+            <div>
                 <a href="https://store.steampowered.com/app/2214170/Wyoming_Winter/" target="_blank"> <img src="assets/images/wyomingwinter.jpg" style="cursor: pointer;"> </a>
-                <span class="tooltiptext"><p style="color:white">Wyoming Winter - Published 2022</p></span>
             </div>
             <h3>Wyoming Winter - Steam Publication</h3>
             <p>Published in 2022 to itch.io before being made accessible on Steam December 9th the same year, Wyoming Winter is our current flagship in-house development and represents more than two years of refinement in workflow processes for VH Games.</p>
@@ -45,9 +44,8 @@
 
 
 
-            <div class="tooltip">
+            <div>
                 <a href="https://valleyhound.itch.io/enter-and-survey" target="_blank"> <img src="assets/images/entersurvey.jpg" style="cursor: pointer;"> </a>
-                <span class="tooltiptext"><p style="color:white">Enter & Survey - Published 2022</p></span>
             </div>
             <h3>Enter & Survey - Tech Demo / Upcoming Steam Publication</h3>
             <p>Initially produced as a tech demo for many point rendering Enter & Survey quickly became a ambient horror favourite on itch.io thanks to its unique art style and mechanics. E&S is currently under development for a future full Steam release.</p>
@@ -57,9 +55,8 @@
             <h2>Our Products</h2>
             <hr>
 
-            <div class="tooltip">
+            <div>
                 <a href="" target="_blank"> <img src="assets/images/vhbase.jpg" style="cursor: pointer;"> </a>
-                <span class="tooltiptext"><p style="color:white">VHBase Unity</p></span>
             </div>
             <h3>VHBase - A Complete Standard for Unity Prototyping</h3>
             <p>VHB is a complete standard development toolset for the Unity game engine designed with ValleyHound Game's workflows and ideology in mind. Becoming available for clients soon it will be a showcase of internal tools and demonstrate the VH processes for game development. VHBase is built with premade internal development tools, assets and workflows. A key part of VHBase is <i>VHB Overlord</i> which keeps track of the scene and assets to ensure that tight rules and workflows are maintained to avoid sloppy work. This project is a 2023 development and was developed after the release of some in house projects.</p>
@@ -76,24 +73,4 @@
             <p>GitHub : <u><a href="https://github.com/valleyhound" target="_blank">@valleyhound</a></u></p>
         </div>
     </body>
-
-    <script>
-        //Automatically refresh page for realtime preview upon save
-        var development_mode = false;
-        function update(){
-            if(!development_mode){return;}
-            location.reload();
-        }
-        setInterval(update, 2000);
-
-        //Function to enhance image on click
-        function enhance_image(obj){
-            if (obj.getAttribute("class") == "img_clicked"){
-                obj.removeAttribute("class");
-            }else{
-                obj.setAttribute("class", "img_clicked");
-            }
-            
-        }
-    </script>
 </html>
