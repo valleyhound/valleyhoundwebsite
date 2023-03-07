@@ -1,0 +1,7 @@
+[newblog(07/03/2023,01:01,The Start of ValleyHound's Blog!)]
+This is the start of ValleyHound blogging!
+[/newblog]
+
+[newblog(07/03/2023,01:02,Another Blog!)]
+This is another new blog!
+[/newblog]
