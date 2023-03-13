@@ -1,3 +1,9 @@
+[newblog(12/03/2023),23:58GMT,A nice screenshot]
+<img src="/assets/images/blog/whiteboard.png">
+Captured this very nice screenshot in v1.12.
+[/newblog]
+
+
 [newblog(07/03/2023,16:27 GMT,Where is Wyoming Winter 1.12?)]
 Wyoming winter 1.11 was released over 4 months ago now and another version has yet to be released. 
 1.12 is coming, it has just been a longer than anticipated journey due to an unexpected need to restructure the code base and a lot of new features to bug test.
