@@ -1,4 +1,4 @@
-[newblog(12/03/2023),23:58GMT,A nice screenshot]
+[newblog(12/03/2023,23:58GMT,A nice screenshot)]
 <img src="/assets/images/blog/whiteboard.png">
 Captured this very nice screenshot in v1.12.
 [/newblog]
