@@ -1,6 +1,6 @@
 [newblog(12/03/2023,23:58GMT,A nice screenshot)]
-<img src="/assets/images/blog/whiteboard.png">
-Captured this very nice screenshot in v1.12.
+<img src="/assets/images/blog/whiteboard.jpg">
+Captured this very nice screenshot in v1.12. <a href="/assets/images/blog/whiteboard.jpg" target="_blank">Open full resolution image</a>
 [/newblog]
 
 
