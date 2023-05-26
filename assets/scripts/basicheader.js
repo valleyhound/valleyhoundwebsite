@@ -6,7 +6,7 @@ var headerCode = `
     <a href="mailto:support@valleyhound.games" target="_blank"><img src="/assets/images/mail_icon_white.png" style="width:32px;display: inline-block;"></a>
     </div>
 
-    <p style="font-size:120%;text-align: left;margin-left:0.5%;margin-top:-2%;margin-bottom:0.25%;display: inline-block;">
+    <p style="font-size:120%;text-align: left;margin-left:0.5%;margin-top:-3.5%;margin-bottom:0.25%;display: inline-block;">
     <a href="/">Home</a>
 
     <span class="prevent_select" style="color:black;">____</span>
