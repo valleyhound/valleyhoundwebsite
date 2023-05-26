@@ -1,8 +1,6 @@
 var headerCode = `
-    <img src="/assets/images/banner.png">
-    <p style="text-align: center;">
-    <a href="https://valleyhound.games">Home</a><span class="prevent_select" style="color:white;">________</span><a href="/blog/">Blog</a><!--<span class="prevent_select" style="color:white;">________</span><a href="/wyomingwinter/">Wyoming Winter</a>-->
-    </p>
+    <script src="/assets/scripts/basicheader.js"></script>
+    <img src="/assets/images/extended_header.png" style="margin-top:2%;margin-bottom:-25%">
 
     <br>
     <br>

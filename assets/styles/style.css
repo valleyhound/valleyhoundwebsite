@@ -4,28 +4,38 @@
     to {opacity: 1.0;}
 }
 
+@keyframes slide
+{
+    from{opacity: 0.0; transform: translateY(0%);}
+    to {opacity: 1.0; transform: translateY(0%);}
+}
+
 html
 {
     overflow-y: auto;
     overflow-x: hidden;
 }
 
+body{
+    background-color: black;
+}
+
 html, body
 { 
     height : 95%;
-    max-width: 1000px;
+    max-width: 2000px;
     margin:auto;
     padding: 1%;
     
     animation-name: faded;
-    animation-duration: 1s;
-    transition: transform 1s ease-in;
+    animation-duration: 2s;
+    transition-timing-function: ease-in;
 }
 
 h1, h2, h3, p 
 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(25, 25, 25);
+    color: rgb(255, 255, 255);
 }
 
 p, h2, h3, h1 {
@@ -39,7 +49,6 @@ h3{
 
 b 
 {
-    color: rgb(0, 0, 0);
 }
 
 .center
@@ -51,7 +60,7 @@ b
 
 a
 {
-    color: rgb(25, 25, 25);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -65,10 +74,6 @@ img
     max-width: 100%;
     width : auto;
     height: auto;
-    animation-delay: -1s;
-    animation-name: faded;
-    animation-duration: 1s;
-    transition: transform 1s ease-in;
 }
 
 .blog_date{
