@@ -1,3 +1,17 @@
+[newblog(27/05/2023,00:53GMT,Website redesign)]
+<img src="/assets/images/blog/newwebsite.jpg">
+We've redesigned the website today to look a bit more modern and less like a high school IT assignment.
+Took some inspiration from various indie game studio's websites.
+
+Let us know what you think on <a href="https://twitter.com/ValleyHoundUK">twitter!</a>
+
+<br>
+
+Cheers,
+The Team
+[/newblog]
+
+
 [newblog(12/03/2023,23:58GMT,A nice screenshot)]
 <img src="/assets/images/blog/whiteboard.jpg">
 Captured this very nice screenshot in v1.12. <u><a href="/assets/images/blog/whiteboard.png" target="_blank">Open full resolution image</a></u>

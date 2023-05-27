@@ -2,7 +2,7 @@ var blogPostData = [];
 var blogPostLines = 0;
 
 function LoadBlog() {
-    var url = "https://valleyhound.games/blog/blog_posts.txt";
+    var url = "/blog/blog_posts.txt";
     
 
     var textFile = new XMLHttpRequest();
@@ -46,7 +46,7 @@ function WriteOutBlog(){
         }
 
         if(isWriting){
-            newEntry += `<p>${currentLine}</p>`;
+            newEntry += `<p style="margin-bottom:-0.6%;">${currentLine}</p>`;
         }
     });
 }
