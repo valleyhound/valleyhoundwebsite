@@ -1,3 +1,26 @@
+[newblog(16/11/2024,18:28GMT,Development Update #3)]
+<img src="https://clan.cloudflare.steamstatic.com/images//43185341/94b857d24e7bf757f8546131abe4ac2740194b33.jpg">
+I've just posted a new development update for everyone to read on the up coming vending machines have a look here : <a href="https://store.steampowered.com/news/app/2214170/view/6681747476222836875">https://store.steampowered.com/news/app/2214170/view/6681747476222836875</a>
+
+Cheers,
+ValleyHound
+[/newblog]
+
+[newblog(10/09/2024,21:39BST,Development Update #2)]
+<img src="https://clan.cloudflare.steamstatic.com/images//43185341/fe2816fc1e467d793c7ac76d0ea33ef26863d4e9.png">
+I've just posted a new development update about some upcoming features in 1.13 have a look here : <a href="https://store.steampowered.com/news/app/2214170/view/4599952112537693822?l=english">https://store.steampowered.com/news/app/2214170/view/4599952112537693822</a>
+
+Cheers,
+ValleyHound
+[/newblog]
+
+[newblog(16/07/2024,21:54BST,Development Update #1)]
+I've just posted my first development update about how I am currently working on 1.13 : <a href="https://store.steampowered.com/news/app/2214170/view/6233628070481010704">https://store.steampowered.com/news/app/2214170/view/6233628070481010704</a>
+
+Cheers,
+ValleyHound
+[/newblog]
+
 [newblog(27/05/2023,00:53GMT,Website redesign)]
 I've redesigned the website today to look a bit more modern.
 Took some inspiration from various indie game studio's websites.
