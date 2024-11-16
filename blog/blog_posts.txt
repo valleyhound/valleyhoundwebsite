@@ -21,6 +21,14 @@ Cheers,
 ValleyHound
 [/newblog]
 
+[newblog(03/01/2024,23:34GMT,V1.12 IS OUT NOW!)]
+<img src="https://clan.cloudflare.steamstatic.com/images/43185341/73a9d78031d752b8eafcce264ea1a885979a6fc2.png">
+I've just released v1.12 for Wyoming Winter! Read about the update here : <a href="https://store.steampowered.com/news/app/2214170/view/3901870710016668530">https://store.steampowered.com/news/app/2214170/view/3901870710016668530</a>
+
+Cheers,
+ValleyHound
+[/newblog]
+
 [newblog(27/05/2023,00:53GMT,Website redesign)]
 I've redesigned the website today to look a bit more modern.
 Took some inspiration from various indie game studio's websites.
