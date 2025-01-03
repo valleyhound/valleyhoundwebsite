@@ -17,6 +17,12 @@ html
 }
 
 body{
+    background-image: url('/assets/images/extended_header.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
     background-color: black;
 }
 
@@ -40,6 +46,7 @@ h1, h2, h3, p
 
 p, h2, h3, h1 {
     font-family: 'Arial', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 h3{
@@ -56,6 +63,15 @@ b
     margin: auto;
     width: 80%;
     padding: 1%;
+}
+
+.true-center
+{
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    height: 90vh; /* Full viewport height */
 }
 
 a
@@ -83,6 +99,7 @@ img
 
 .blog_post{
     outline-color: black;
+    background-color: black;
     outline-width: 1px;
     outline-style: solid;
     padding: 1%;
@@ -92,4 +109,6 @@ img
     -webkit-user-select: none; /* Safari */
     -ms-user-select: none; /* IE 10 and IE 11 */
     user-select: none; /* Standard syntax */
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+    opacity: 0;
 }
