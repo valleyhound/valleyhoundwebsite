@@ -1,3 +1,11 @@
+[newblog(06/01/2025,18:26GMT,Switching to bluesky)]
+I am moving the @ValleyHoundUK account from x/Twitter to bluesky.
+
+Read more here : <a href = "https://store.steampowered.com/news/app/2214170/view/529834914570306431?l=english">https://store.steampowered.com/news/app/2214170/view/529834914570306431?l=english</a>
+Cheers,
+ValleyHound
+[/newblog]
+
 [newblog(16/11/2024,18:28GMT,Development Update #3)]
 <img src="https://clan.cloudflare.steamstatic.com/images//43185341/94b857d24e7bf757f8546131abe4ac2740194b33.jpg">
 I've just posted a new development update for everyone to read on the up coming vending machines have a look here : <a href="https://store.steampowered.com/news/app/2214170/view/6681747476222836875">https://store.steampowered.com/news/app/2214170/view/6681747476222836875</a>

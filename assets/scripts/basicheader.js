@@ -4,7 +4,7 @@ var headerCode = `
     </div>
     <div style="vertical-align:right;text-align:right;">
     <a href="https://www.youtube.com/@valleyhound" target="_blank"><img src="/assets/images/youtube_icon_white.png" style="width:32px;display: inline-block;"></a>
-    <a href="https://twitter.com/ValleyHoundUK" target="_blank"><img src="/assets/images/twitter_icon_white.png" style="width:32px;display: inline-block;"></a>
+    <a href="https://bsky.app/profile/valleyhounduk.bsky.social" target="_blank"><img src="/assets/images/bluesky_icon_white.png" style="width:32px;display: inline-block;"></a>
     <a href="https://github.com/valleyhound" target="_blank"><img src="/assets/images/github_icon_white.png" style="width:32px;display: inline-block;"></a>
     <a href="mailto:support@valleyhound.games" target="_blank"><img src="/assets/images/mail_icon_white.png" style="width:32px;display: inline-block;"></a>
     </div>
